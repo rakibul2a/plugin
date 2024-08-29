@@ -1,0 +1,42 @@
+.num{
+    background-color: yellowgreen;
+    border: 5px solid;
+}
+.d_in{
+    border: 5px solid black;
+
+}
+.box{
+    height: 300px;
+}
+.my-element {
+  display: inline-block;
+  margin: 0 0.5rem;
+  animation: bounce; 
+  animation-duration: 2s; 
+}
+.header{
+    padding:30px;
+}
+.header_c{
+    padding:60px;
+}
+.countup_header{
+    color: white;
+    text-transform: uppercase;
+}
+.counters{
+    padding:50px;
+}
+.you{
+    color: #FF0000;
+
+}
+.twi{
+    color: #1DA1F2;
+
+}
+.fb{
+    color: #3b5998;
+
+}
